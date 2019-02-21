@@ -1,0 +1,6 @@
+c:\users\casper\documents\visual studio 2015\Projects\BalancePoint\BalancePoint\bin\Debug\BalancePoint.dll.config
+c:\users\casper\documents\visual studio 2015\Projects\BalancePoint\BalancePoint\bin\Debug\BalancePoint.dll
+c:\users\casper\documents\visual studio 2015\Projects\BalancePoint\BalancePoint\bin\Debug\BalancePoint.pdb
+c:\users\casper\documents\visual studio 2015\Projects\BalancePoint\BalancePoint\obj\Debug\BalancePoint.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\BalancePoint\BalancePoint\obj\Debug\BalancePoint.dll
+c:\users\casper\documents\visual studio 2015\Projects\BalancePoint\BalancePoint\obj\Debug\BalancePoint.pdb
